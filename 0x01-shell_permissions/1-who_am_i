@@ -1,2 +1,2 @@
-#!/bin/basfds
+#!/bin/bash
 id -un
