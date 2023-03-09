@@ -1,2 +1,2 @@
 #!/ban/bash
-chown betty helli
+chown betty hello
